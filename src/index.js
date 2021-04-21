@@ -1,5 +1,6 @@
 export default (editor, options = {}) => {
-  const remoteIcons = 'https://raw.githubusercontent.com/nhnent/tui.image-editor/production/dist/svg/';
+  const remoteIcons = "https://raw.githubusercontent.com/theMarinac/grapesjs-tui-image-editor/master/dist/svg/";
+  
   const opts = { ...{
     // TOAST UI's configurations
     // http://nhnent.github.io/tui.image-editor/latest/ImageEditor.html

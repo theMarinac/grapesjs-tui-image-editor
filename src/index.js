@@ -16,7 +16,7 @@ export default (editor, options = {}) => {
     labelApply: 'Apply',
 
     // Default editor height
-    height: '650px',
+    height: '800px',
 
     // Default editor width
     width: '100%',
